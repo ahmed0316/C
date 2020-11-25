@@ -1,2 +1,2 @@
 # C++
-C++ Exercises in several branches.
+C++ Exercises in branches.
